@@ -2,5 +2,5 @@
 	"adSupplier":2, 
 	"homeAdEnabled": false, 
 	"alarmFireAdEnabled": true,
-	"weatherEnabled": true
+	"weatherEnabled": false
 }
