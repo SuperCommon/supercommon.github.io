@@ -1,0 +1,6 @@
+{
+	"adSupplier": 3, 
+	"homeAdEnabled": false, 
+	"alarmFireAdEnabled": true,
+	"weatherEnabled": true
+}
