@@ -161,3 +161,5 @@ e-planning.net,2af6560b926d20f9,RESELLER,c1ba615865ed87b2
 improvedigital.com,1556,RESELLER
 openx.com,541031350,RESELLER,6a698e2ec38604c6
 pubmatic.com,156631,RESELLER,5d62403b186f2ace
+pangleglobal.com, 5006254, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
