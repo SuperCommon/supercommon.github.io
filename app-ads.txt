@@ -1,2 +1,4 @@
 google.com, pub-5110211362709892, DIRECT, f08c47fec0942fa0
 applovin.com, 15bef6d9f89375348a07b1a6286d8a56, DIRECT
+pangleglobal.com, 5006254, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
